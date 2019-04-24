@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Cookie&amp;Session.iml" filepath="$PROJECT_DIR$/Cookie&amp;Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CookieandSession.iml" filepath="$PROJECT_DIR$/CookieandSession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CookieandSessionText/CookieandSessionText.iml" filepath="$PROJECT_DIR$/../CookieandSessionText/CookieandSessionText.iml" />
     </modules>
   </component>
 </project>

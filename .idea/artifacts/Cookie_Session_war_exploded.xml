@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="Cookie&amp;Session:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/Cookie_Session_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="Cookie&amp;Session/web/Web" />
+      <element id="javaee-facet-resources" facet="CookieandSession/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Cookie&amp;Session" />
+          <element id="module-output" name="CookieandSession" />
         </element>
       </element>
     </root>
